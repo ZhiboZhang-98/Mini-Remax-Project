@@ -1,0 +1,2 @@
+# Mini Remax Project
+ This project is about creating webform by using Mvc asp.net entity framework, with responsive design and frame work for (UI) like bootstrap. This project contains 3 features: First Feature: This feature ask user name and pass word, and according the type of user it redirect to the feature. There are two type of users: Client and Admin. Client Feature: Client can search the house. Admin Feature: Admin have access to search page and can create, read, update and delete the house.
